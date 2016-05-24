@@ -14,21 +14,21 @@
 			</tr>
 			<tr>
 				<td width="68" nowrap="nowrap">用户名</td>
-				<td width="127" nowrap="nowrap"><label> <input
-						name="user.username" type="text" id="username" size="20" /> </label>
+				<td width="127" nowrap="nowrap">
+					<label> 
+						<input name="user.username" type="text" id="username" size="20" /> 
+					</label>
 				</td>
 			</tr>
 			<tr>
 				<td nowrap="nowrap">密 码</td>
-				<td nowrap="nowrap"><input name="user.password" type="password"
-					id="password" size="20" maxlength="10" />
-				</td>
+				<td nowrap="nowrap">
+				<input name="user.password" type="password" id="password" size="20" maxlength="10" /></td>
 			</tr>
 			<tr>
 				<td colspan="2" align="center" nowrap="nowrap"><label>
 						<input type="submit" value="注册" /> <input type="reset" value="重填" />
-				</label>
-				</td>
+				</label></td>
 			</tr>
 		</table>
 	</form>
